@@ -8,6 +8,8 @@ public class Petinho {
 		System.out.println("Alterando apenas para teste");
 		
 		System.out.println("OI :");
+		
+		System.out.println("Petinho");
 	}
 	
 	
